@@ -13,7 +13,12 @@ h1 {
 }
 
 img {
+<<<<<<< HEAD
   width: 900px;
   height: 900px;
+=======
+  width: 1000px;
+  height: 500px;
+>>>>>>> 0e5e87e1e78a7d43dfd5ac6cb7735b2642ca7416
   margin: 10px;
 }
