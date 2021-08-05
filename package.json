@@ -1,0 +1,23 @@
+{
+  "name": "space_gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engammar111/space_gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engammar111/space_gallery/issues"
+  },
+  "homepage": "https://engammar111.github.io/space_gallery",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
